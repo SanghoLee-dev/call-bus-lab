@@ -1,11 +1,19 @@
 package com.callbus.codingtest;
 
+import java.util.Arrays;
+
 public class CodingTestB {
-    String compress() {
+
+    String compress(String any) {
+
+
+
         return "";
     }
 
-    String decompress() {
+    String decompress(String compressed) {
         return "";
     }
+
+
 }
